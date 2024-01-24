@@ -1,0 +1,142 @@
+html{
+    box-sizing: border-box;
+    height: 100%;
+    
+    }
+    
+body{
+    background-image:url("https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Black_colour.jpg/1200px-Black_colour.jpg")
+    
+        
+ }
+.Dark_Souls{
+    color: white;
+    background-image: url("https://i.pinimg.com/originals/eb/c5/f8/ebc5f83369a9a3f53df546d69c341cae.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    display: flex;
+    width: 49%;
+    height: 49%;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 16px;
+    
+}
+
+.Dark_Souls2{
+    color: white;
+    background-image: url("https://images7.alphacoders.com/678/678583.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    display: flex;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 49%;
+    height: 49%;
+    align-items: center;
+    justify-content: center;
+    border-radius: 16px;
+    
+    
+}
+
+.Dark_Souls3{
+    color: white;
+    background-image: url("https://images5.alphacoders.com/609/609173.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    width: 49%;
+    height: 49%;
+    display: flex;
+    position: absolute;
+    left: 10px;
+    bottom: 10px;     
+    align-items: center;
+    justify-content: center;
+    border-radius: 16px;
+    
+}
+.Elden_Ring{
+    color: white;
+    background-image: url("https://moewalls.com/wp-content/uploads/2023/08/elden-ring-thumb.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    position: absolute;
+    height: 49%;
+    width: 49%;
+    right: 10px;
+    bottom: 10px;
+    justify-content: center;
+    display: flex;
+    align-items: center;   
+    border-radius: 16px;
+    
+    
+}
+
+
+.Ds1_akira,.Ds2_akira,.Ds3_akira,.Er_akira{
+font-size: 200%;
+margin: 10%;
+border-radius: 16px;
+backdrop-filter: blur(4px);
+background: rgba(0, 0, 0, 0.7);
+border: 1px solid rgba(138, 131, 131, 0.123);
+padding: 20px 35px;
+
+}
+.Ds1_dudu,.Ds2_dudu,.Ds2_dudu,.Ds3_dudu,.er_dudu{
+    margin: 10%;
+    border-radius: 16px;
+    backdrop-filter: blur(4px);
+    background: rgba(3, 3, 3, 0.7);
+    border: 1px solid rgba(138, 131, 131, 0.123);
+    padding: 20px 35px;
+    font-size: 200%;
+}
+
+
+.botao_-{
+    font-family: impact;
+    border-radius: 10px;
+    font-size: 72%;
+    background-image: linear-gradient(#000000,#2A272A,#4B4A54);
+    
+    
+    
+}
+
+.botao_-:hover{
+    background: rgb(75, 20, 20);
+    color: rgb(134, 14, 14);
+}
+.botao{
+    font-family: Impact;
+    border-radius: 16px;
+    font-size: 72%;
+    background-image: linear-gradient(#000000,#2A272A,#4B4A54);
+   
+}
+.botao:hover{
+    background: rgb(75, 20, 20);
+    color: rgb(134, 14, 14);
+    
+}
+
+.nome{
+    font-family: Impact;
+    color: #585858;
+    text-align: center;
+}
+
+.cont{
+    font-family: Impact;
+    color: #7c7c7c;
+    background-image: linear-gradient(#000000,#2A272A,#4B4A54);
+}
+
+    
