@@ -79,7 +79,7 @@ body{
 }
 
 
-.Ds1_akira,.Ds2_akira,.Ds3_akira,.Er_akira{
+.Ds1_p1,.Ds2_p1,.Ds3_p1,.Er_p1{
 font-size: 200%;
 margin: 10%;
 border-radius: 16px;
@@ -89,7 +89,7 @@ border: 1px solid rgba(138, 131, 131, 0.123);
 padding: 20px 35px;
 
 }
-.Ds1_dudu,.Ds2_dudu,.Ds2_dudu,.Ds3_dudu,.er_dudu{
+.Ds1_p2,.Ds2_p2,.Ds2_p2,.Ds3_p2,.er_p2{
     margin: 10%;
     border-radius: 16px;
     backdrop-filter: blur(4px);
